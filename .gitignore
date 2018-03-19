@@ -1,0 +1,7 @@
+nohup.out
+runs/
+*.pyc
+generated-*
+.pipeline-generated-*
+.dataspine-generated-*
+.DS_Store

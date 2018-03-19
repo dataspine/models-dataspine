@@ -1,0 +1,4 @@
+#!/bin/bash
+
+DATASPINE_MODEL_PATH=. DATASPINE_MODEL_RUNTIME=python DATASPINE_MODEL_TYPE=pytorch DATASPINE_MODEL_NAME=mnist DATASPINE_MODEL_TAG=pytorchcpu python test_predict.py
+
